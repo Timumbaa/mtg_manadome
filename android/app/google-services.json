@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "438386397504",
+    "project_id": "the-manadome",
+    "storage_bucket": "the-manadome.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438386397504:android:df3d38ef42a37b3b426aa5",
+        "android_client_info": {
+          "package_name": "com.timumbaa.mtg_manadome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438386397504-p654e668tf33q5o7a2gndefueqdphdni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwT8dpQHmPndwQNaNbdnp81PlweDpR7go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438386397504-p654e668tf33q5o7a2gndefueqdphdni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
