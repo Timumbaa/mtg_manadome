@@ -1,14 +1,14 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:mtg_manadome/screens/authenticate/register.dart';
-import 'package:mtg_manadome/screens/authenticate/sign_in.dart';
 import 'package:mtg_manadome/services/auth.dart';
 
-class Authenticate extends StatefulWidget {
+class SignIn extends StatefulWidget {
   @override
-  _AuthenticateState createState() => _AuthenticateState();
+  _SignInState createState() => _SignInState();
 }
 
-class _AuthenticateState extends State<Authenticate> {
+class _SignInState extends State<SignIn> {
   final AuthService _auth = AuthService();
   final _formKey = GlobalKey<FormState>();
 
